@@ -159,7 +159,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 Ukpono Umoren - [Github](https://github.com/Ukeremi) / [Twitter](https://twitter.com/umoren_ukpono)
-Israel Inene - [Github](https://github.com/israel-09) / [Twitter](https://twitter.com/)
+Israel Inene - [Github](https://github.com/israel-09) / [Twitter](https://twitter.com/israel_inene)
 
 Second part of Airbnb: Joann Vuong
 ## License
